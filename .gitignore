@@ -1,0 +1,5 @@
+.vscode/
+mevmatlabcode/
+Manifest.toml
+*.pdf
+.DS_Store
